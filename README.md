@@ -1,7 +1,8 @@
 ## Work Schedule
 
 ![ezgif com-crop (9)](https://user-images.githubusercontent.com/94214512/222823263-b1a5df12-755a-41e9-a201-5dd60c248924.gif) <br>
-This is a weekly work schedule app that you can create, read, update, and delete.
+This is a weekly work schedule app that you can create, read, update, and delete. <br>
+[Work Schedule](https://jade-bubblegum-e40d6b.netlify.app/)
 
 ### Goals of the project
 
